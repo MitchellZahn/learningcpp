@@ -37,7 +37,7 @@ By writing this code, I also learnt the typical workflow of a C++ program:
 
 1. Write the code in a `.cpp` file
 2. Compile the code using a C++ compiler
-3. Run the resulting program to see the output
+3. Run the program to see the output
 
 ## Conclusion
 With this program, I learnt the fundamental building blocks of C++:
