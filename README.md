@@ -13,6 +13,7 @@ The goal of this repo is to track my progress, practice writing C++ code, and cr
 |:---:|:---|
 | 1 | [Hello World](./001-helloWorld) |
 | 2 | [Variables](./002-variables) |
+| 3 | [Comments](./003-comments) |
 
 ---
 
