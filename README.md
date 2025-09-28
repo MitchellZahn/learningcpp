@@ -15,6 +15,7 @@ The goal of this repo is to track my progress, practice writing C++ code, and cr
 | 2 | [Variables](./002-variables) |
 | 3 | [Comments](./003-comments) |
 | 4 | [Input](./004-input) |
+| 5 | [Conditions](./005-conditions) |
 
 ---
 
