@@ -11,11 +11,11 @@ The goal of this repo is to track my progress, practice writing C++ code, and cr
 
 | # | Project |
 |:---:|:---|
-| 1 | [Hello World](./001-helloWorld) |
-| 2 | [Variables](./002-variables) |
-| 3 | [Comments](./003-comments) |
-| 4 | [Input](./004-input) |
-| 5 | [Conditions](./005-conditions) |
+| 1 | [Hello World](./projects/001-helloWorld) |
+| 2 | [Variables](./projects/002-variables) |
+| 3 | [Comments](./projects/003-comments) |
+| 4 | [Input](./projects/004-input) |
+| 5 | [Conditions](./projects/005-conditions) |
 
 ---
 
