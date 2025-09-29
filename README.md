@@ -16,6 +16,7 @@ The goal of this repo is to track my progress, practice writing C++ code, and cr
 | 3 | [Comments](./projects/003-comments) |
 | 4 | [Input](./projects/004-input) |
 | 5 | [Conditions](./projects/005-conditions) |
+| 6 | [Operators](./projects/006-operators) |
 
 ---
 
