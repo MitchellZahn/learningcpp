@@ -20,6 +20,7 @@ The goal of this repo is to track my progress, practice writing C++ code, and cr
 | 7 | [Loops](./projects/007-loops) |
 | 8 | [Functions](./projects/008-functions) |
 | 9 | [Arrays](./projects/009-arrays) |
+| 10 | [Strings](./projects/010-strings) |
 
 ---
 
