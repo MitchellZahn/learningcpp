@@ -22,6 +22,7 @@ The goal of this repo is to track my progress, practice writing C++ code, and cr
 | 9 | [Arrays](./projects/009-arrays) |
 | 10 | [Strings](./projects/010-strings) |
 | 11 | [Pointers](./projects/011-pointers) |
+| 12 | [References](./projects/012-references) |
 
 ---
 
