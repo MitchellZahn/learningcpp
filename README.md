@@ -9,10 +9,9 @@ The goal of this repo is to track my progress, practice writing C++ code, and cr
 
 ## Projects
 
-| # | Project |
-|:---:|:---:|
-| 1 | [Statements](./projects/001-statements/) |
-| 2 | [Comments](./projects/002-comments/) |
+[![1 Statements](https://img.shields.io/badge/1-Statements-401010)](./projects/001-statements/)&nbsp;
+[![2 Comments](https://img.shields.io/badge/2-Comments-403010)](./projects/002-comments/)&nbsp;
+
 
 ---
 

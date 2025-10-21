@@ -29,7 +29,7 @@ It tells the compiler to include the standard input/output stream library, which
 - `int main()` This defines the main function, which is where every C++ program begins execution.
 - `{ ... }` Curly braces define the function body. All the statements inside are part of the main function.
 - `std::cout << "Hello world!" << std::endl;` This is an output statement.
-  - `std` stands for “standard”.
+  - `std` stands for “standard”, which refers to the C++ Standard Library namespace.
   - `cout` stands for "character output".
   - The `<<` operator sends data to the output stream.
   - `"Hello world!"` is the message we want to display.
