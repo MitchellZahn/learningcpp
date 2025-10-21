@@ -9,46 +9,10 @@ The goal of this repo is to track my progress, practice writing C++ code, and cr
 
 ## Projects
 
-<div style="display:flex; justify-content:flex-start; flex-wrap:wrap; gap:4px;">
-<!-- 001-Statements -->
-  <a href="./projects/001-statements" style="text-decoration:none;">
-    <div style="
-      width:150px;
-      height:75px;
-      border-radius:12px;
-      background-color: rgba(0, 0, 0, 0.2);
-      box-shadow:0 2px 5px rgba(0, 0, 0, 0.1);
-      color:#fff;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      text-align:center;
-      font-size:18px;
-      font-weight:bold;
-      padding:10px;">
-      1<br>Statements
-    </div>
-  </a>
-  <!-- 002-comments -->
-  <a href="./projects/002-comments" style="text-decoration:none;">
-    <div style="
-      width:150px;
-      height:75px;
-      border-radius:12px;
-      background-color: rgba(0, 0, 0, 0.1);
-      box-shadow:2px 2px 5px rgba(0,0,0,0.1);
-      color:#fff;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      text-align:center;
-      font-size:18px;
-      font-weight:bold;
-      padding:10px;">
-      2<br>Comments
-    </div>
-  </a>
-</div>
+| # | Project |
+|:---:|:---:|
+| 1 | [Statements](./projects/001-statements/) |
+| 2 | [Comments](./projects/002-comments/) |
 
 ---
 
