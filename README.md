@@ -9,12 +9,8 @@ The goal of this repo is to track my progress, practice writing C++ code, and cr
 
 ## Projects
 
-<a href="./projects/001-statements/">
-  <img src="https://img.shields.io/badge/1-Statements-401010" alt="1 Statements" height="26">
-</a>&nbsp;
-<a href="./projects/002-comments/">
-  <img src="https://img.shields.io/badge/2-Comments-403010" alt="2 Comments" height="26">
-</a>
+[![1 Statements](https://img.shields.io/badge/1-Statements-401010)](./projects/001-statements/)&nbsp;
+[![2 Comments](https://img.shields.io/badge/2-Comments-403010)](./projects/002-comments/)&nbsp;
 
 ---
 
