@@ -1,8 +1,8 @@
 # Understanding C++ Comments
 
 ## Introduction
-This project continues my journey into learning the fundamentals of C++ programming.
-In this lesson, I explored C++ comments, which are used to make notes inside the source code.
+This project continues my journey into learning the fundamentals of C++ programming.  
+In this lesson, I explored C++ comments, which are used to make notes inside the source code.  
 Comments are ignored by the compiler, but they play a crucial role in helping programmers understand, maintain, and debug their code.
 
 ---
@@ -10,8 +10,8 @@ Comments are ignored by the compiler, but they play a crucial role in helping pr
 ## What I learnt
 
 ### 1. What Are Comments
-A comment is a programmer-readable note written inside the source code.
-Its purpose is to describe what the code does, how it works, or why certain choices were made.
+A comment is a programmer-readable note written inside the source code.  
+Its purpose is to describe what the code does, how it works, or why certain choices were made.  
 The compiler completely ignores comments, they exist solely for humans.
 
 Here’s the full code:
@@ -38,15 +38,15 @@ Both types are used to leave notes in the code, but they behave slightly differe
 ---
 
 ### 2. Single-Line Comments
-Single-line comments start with `//`.
-Everything from the `//` to the end of that line is ignored by the compiler.
+Single-line comments start with `//`.  
+Everything from the `//` to the end of that line is ignored by the compiler.  
 For example:
 ```cpp
 std::cout << "Hello world!"; // This is a single-line comment
 ```
 Single-line comments are commonly used for short notes beside code, such as quick explanations or reminders.
 
-However, when code lines are long, placing comments at the end of the line can make the code messy and hard to read.
+However, when code lines are long, placing comments at the end of the line can make the code messy and hard to read.  
 A clearer approach is to place the comment above the statement:
 ```cpp
 // Display a greeting message
@@ -57,7 +57,7 @@ This keeps the code neat and easier to understand.
 ---
 
 ### 3. Multi-Line Comments
-Multi-line comments begin with `/*` and end with `*/`.
+Multi-line comments begin with `/*` and end with `*/`.  
 Everything between these symbols is ignored by the compiler, even across multiple lines.
 
 Example:
@@ -74,7 +74,7 @@ A common formatting style aligns asterisks for readability:
  * Matching asterisks make it easy to read.
  */
 ```
-One important rule: multi-line comments cannot be nested.
+One important rule: multi-line comments cannot be nested.  
 If you try something like:
 ```cpp
 /* This is a comment /* inside another comment */ */
@@ -119,7 +119,7 @@ value = 0;
 ---
 
 ### 5. Commenting Out Code
-Sometimes, you may want to temporarily disable code without deleting it.
+Sometimes, you may want to temporarily disable code without deleting it.  
 This is called commenting out code.
 
 Example:
@@ -148,7 +148,7 @@ This technique is helpful for debugging, isolating errors, or experimenting with
 ---
 
 ## Conclusion
-Learning how to write comments in C++ has shown me that writing code isn’t just about making a program work, it’s also about making it understandable.
-Comments are invisible to the compiler but invaluable to humans.
-They explain what the code does, how it works, and why it exists, making collaboration, debugging, and future maintenance far easier.
+Learning how to write comments in C++ has shown me that writing code isn’t just about making a program work, it’s also about making it understandable.  
+Comments are invisible to the compiler but invaluable to humans.  
+They explain what the code does, how it works, and why it exists, making collaboration, debugging, and future maintenance far easier.  
 As I continue learning C++, I’ll make sure to write clear, meaningful comments that make my programs readable.

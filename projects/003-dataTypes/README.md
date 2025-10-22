@@ -1,16 +1,16 @@
 # Understanding C++ Data Types
 
 ## Introduction
-This project continues my journey into learning the fundamentals of C++ programming.
-In this lesson, I learned about data types, which determine the kind of information a program can store and manipulate.
-Every variable in C++ must have a type so that the compiler knows how much memory to allocate and how to interpret the stored value.
+This project continues my journey into learning the fundamentals of C++ programming.  
+In this lesson, I learned about data types, which determine the kind of information a program can store and manipulate.  
+Every variable in C++ must have a type so that the compiler knows how much memory to allocate and how to interpret the stored value.  
 
 ---
 
 ## What I learnt
 
 ### 1. What Are Data Types
-A data type defines the kind of value a variable can hold and how that value is represented in memory.
+A data type defines the kind of value a variable can hold and how that value is represented in memory.  
 Without data types, a program would not know how to interpret raw data like numbers or characters.
 
 Here’s the full code:
@@ -61,7 +61,7 @@ Each of these types plays a key role in handling specific kinds of data.
 ---
 
 ### 4. Objects and Variables
-An object in C++ represents a region of memory that can store a value.
+An object in C++ represents a region of memory that can store a value.  
 A variable is an object that has a name. We define variables so we can store, modify, and retrieve data during program execution.
 
 Example:
@@ -105,6 +105,6 @@ The compiler uses this information to manage memory efficiently and to ensure ty
 ---
 
 ## Conclusion
-Learning about C++ data types has shown me that every piece of data in a program must have a clearly defined type.
-Data types tell the compiler how much space to allocate, how to interpret stored values, and what operations are valid.
+Learning about C++ data types has shown me that every piece of data in a program must have a clearly defined type.  
+Data types tell the compiler how much space to allocate, how to interpret stored values, and what operations are valid.  
 By using the correct data types, we write programs that are efficient, reliable, and easy to maintain.

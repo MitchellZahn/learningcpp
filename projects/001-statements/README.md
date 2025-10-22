@@ -40,8 +40,8 @@ Returning `0` means “program executed successfully”.
 ---
 
 ### 2. Understanding Statements
-In C++, a statement is an instruction that performs an action.
-Most statements end with a semicolon (`;`).
+In C++, a statement is an instruction that performs an action.  
+Most statements end with a semicolon (`;`).  
 For example:
 ```cpp
 std::cout << "Level up!" << std::endl;
@@ -53,7 +53,7 @@ If you forget the semicolon, the compiler will produce a syntax error.
 ---
 
 ### 3. Syntax and Errors
-Just like English grammar, C++ has syntax rules that define how programs must be written.
+Just like English grammar, C++ has syntax rules that define how programs must be written.  
 If we forget a semicolon:
 ```cpp
 std::cout << "Level up!" << std::endl
@@ -72,5 +72,5 @@ This helps me understand how compilers enforce structure and how errors are repo
 ---
 
 ## Conclusion
-This simple “Hello World” program may be small, but it introduces the building blocks of all C++ programming.
+This simple “Hello World” program may be small, but it introduces the building blocks of all C++ programming.  
 From preprocessor directives to statements, syntax, and the main function, every part plays a crucial role in how C++ code is executed.

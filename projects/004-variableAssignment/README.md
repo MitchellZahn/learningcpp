@@ -1,8 +1,8 @@
 # Understanding Variable Assignments in C++
 
 ## Introduction
-This project continues my journey of fundamental C++ concepts.
-In this project, I learned about variable assignments, which are used to give values to variables after they have been defined.
+This project continues my journey of fundamental C++ concepts.  
+In this project, I learned about variable assignments, which are used to give values to variables after they have been defined.  
 Assignments are one of the most basic and essential parts of programming because they allow us to store, modify, and reuse values as the program runs.
 
 ---
@@ -10,8 +10,8 @@ Assignments are one of the most basic and essential parts of programming because
 ## What I learnt
 
 ### 1. What Is Variable Assignment
-Variable assignment is the process of giving a value to a variable after it has been defined.
-We use the assignment operator (`=`) to store a value in a variable.
+Variable assignment is the process of giving a value to a variable after it has been defined.  
+We use the assignment operator (`=`) to store a value in a variable.  
 The value on the right-hand side is copied into the variable on the left-hand side.
 
 Here’s the full code:
@@ -34,14 +34,14 @@ int main() {
   return 0;
 }
 ```
-This program defines five variables of different data types and assigns a value to each one.
-We then use `std::cout` to print their values on separate lines.
+This program defines five variables of different data types and assigns a value to each one.  
+We then use `std::cout` to print their values on separate lines.  
 In future projects, we will also discuss how `setprecision()` can be used to display all the digits in a floating-point number when printing, since doubles can store many decimal places by default.
 
 ---
 
 ### 2. How Assignments Work in Execution
-When the program runs, C++ allocates memory for each variable, and the assignment operator stores the value there.
+When the program runs, C++ allocates memory for each variable, and the assignment operator stores the value there.  
 If you assign a new value later, the old one is replaced.
 For example:
 ```cpp
@@ -63,7 +63,7 @@ The second assignment overwrites the first value.
 ---
 
 ### 3. Variable Initialization
-Assignment can also happen immediately when the variable is created.
+Assignment can also happen immediately when the variable is created.  
 This is called initialization and it ensures that the variable starts with a defined value.
 ```cpp
 int a = 5;     // copy-initialization
@@ -76,7 +76,7 @@ Uninitialized variables contain unpredictable values (called garbage values), so
 ---
 
 ### 4. Common Mistake: `=` vs `==`
-A common mistake among beginners is confusing assignment (`=`) with equality (`==`).
+A common mistake among beginners is confusing assignment (`=`) with equality (`==`).  
 `=` assigns a value, while `==` compares two values.
 
 Example:
@@ -105,7 +105,7 @@ if (x == 5) {   // equality comparison
 ---
 
 ## Conclusion
-Learning about variable assignments taught me how values move and change during program execution.
-Assignments form the foundation of logic and state in C++.
-Understanding how to properly assign and initialize variables helps create code that is reliable and easy to follow.
+Learning about variable assignments taught me how values move and change during program execution.  
+Assignments form the foundation of logic and state in C++.  
+Understanding how to properly assign and initialize variables helps create code that is reliable and easy to follow.  
 In future projects, I will explore how `setprecision()` can be used to improve the accuracy and readability of numerical output when working with floating-point number variables.
