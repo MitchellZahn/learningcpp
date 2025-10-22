@@ -11,7 +11,8 @@ The goal of this repo is to track my progress, practice writing C++ code, and cr
 
 [![1 Statements](https://img.shields.io/badge/1-Statements-401010)](./projects/001-statements/)&nbsp;
 [![2 Comments](https://img.shields.io/badge/2-Comments-403010)](./projects/002-comments/)&nbsp;
-[![2 Data Types](https://img.shields.io/badge/3-Data_Types-404010)](./projects/003-dataTypes/)&nbsp;
+[![3 Data Types](https://img.shields.io/badge/3-Data_Types-404010)](./projects/003-dataTypes/)&nbsp;
+[![4 Variable Assignment](https://img.shields.io/badge/4-Variable_Assignment-104010)](./projects/004-variableAssignment/)&nbsp;
 
 ---
 
