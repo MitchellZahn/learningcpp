@@ -148,7 +148,7 @@ Tip: The direction of the arrows shows the direction of data movement.
 ---
 
 ## Advantages of This Lesson
-1. **User Interaction**: Learned how to take user input and display results dynamically.
+1. **User Interaction**: Learnt how to take user input and display results dynamically.
 2. **Understanding Streams**: Gained knowledge of how data flows in and out of a program using input and output streams.
 3. **Efficiency Awareness**: Understood the importance of buffering and when to use `std::endl` or `'\n'`.
 4. **Syntax Confidence**: Became comfortable with the use of `<<` and `>>` operators in programs.
@@ -156,7 +156,7 @@ Tip: The direction of the arrows shows the direction of data movement.
 ---
 
 ## Conclusion
-In this lesson, I learned how C++ handles user interaction through the input/output stream library.  
+In this lesson, I learnt how C++ handles user interaction through the input/output stream library.  
 By including `#include <iostream>`, we gain access to tools that allow us to communicate with the user through the console.  
 Understanding how to use `std::cout`, `std::cin`, `std::endl`, and `'\n'` helps create interactive and efficient programs.  
 This knowledge lays the foundation for future lessons where user input and program output become essential parts of program design.

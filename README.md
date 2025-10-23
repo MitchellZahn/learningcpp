@@ -14,6 +14,7 @@ The goal of this repo is to track my progress, practice writing C++ code, and cr
 [![3 Data Types](https://img.shields.io/badge/3-Data_Types-404010)](./projects/003-dataTypes/)&nbsp;
 [![4 Variable Assignment](https://img.shields.io/badge/4-Variable_Assignment-104010)](./projects/004-variableAssignment/)&nbsp;
 [![5 Input and Output](https://img.shields.io/badge/5-Input_and_Output-104040)](./projects/005-inputAndOutput/)&nbsp;
+[![6 Arithmetic Operators](https://img.shields.io/badge/6-Arithmetic_Operators-102040)](./projects/006-arithmeticOperators/)&nbsp;
 
 ---
 

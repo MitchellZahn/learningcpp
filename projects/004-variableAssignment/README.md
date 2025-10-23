@@ -2,7 +2,7 @@
 
 ## Introduction
 This project continues my journey of fundamental C++ concepts.  
-In this project, I learned about variable assignments, which are used to give values to variables after they have been defined.  
+In this project, I learnt about variable assignments, which are used to give values to variables after they have been defined.  
 Assignments are one of the most basic and essential parts of programming because they allow us to store, modify, and reuse values as the program runs.
 
 ---
@@ -98,7 +98,7 @@ if (x == 5) {   // equality comparison
 ---
 
 ## Advantages of This Lesson
-1. **Understanding Variable Behavior**: Learned how variables store and update values during program execution.
+1. **Understanding Variable Behavior**: Learnt how variables store and update values during program execution.
 2. **Initialization Awareness**: Gained an understanding of how initialization ensures variables have defined values.
 3. **Error Prevention**: Recognized how proper assignments and initializations prevent unpredictable results.
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 This project continues my journey into learning the fundamentals of C++ programming.  
-In this lesson, I learned about data types, which determine the kind of information a program can store and manipulate.  
+In this lesson, I learnt about data types, which determine the kind of information a program can store and manipulate.  
 Every variable in C++ must have a type so that the compiler knows how much memory to allocate and how to interpret the stored value.  
 
 ---
@@ -97,9 +97,9 @@ The compiler uses this information to manage memory efficiently and to ensure ty
 ---
 
 ## Advantages of This Lesson
-1. **Understanding Data Representation**: Learned how values are stored and interpreted by the computer.
+1. **Understanding Data Representation**: Learnt how values are stored and interpreted by the computer.
 2. **Memory Awareness**: Gained insight into how different types consume memory.
-3. **Code Reliability**: Learned that correct type usage prevents type-related errors.
+3. **Code Reliability**: Learnt that correct type usage prevents type-related errors.
 4. **Foundation for Complex Topics**: This lesson sets the groundwork for variables, expressions, and data manipulation.
 
 ---
