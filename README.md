@@ -16,6 +16,7 @@ The goal of this repo is to track my progress, practice writing C++ code, and cr
 [![5 Input and Output](https://img.shields.io/badge/5-Input_and_Output-104040)](./projects/005-inputAndOutput/)&nbsp;
 [![6 Arithmetic Operators](https://img.shields.io/badge/6-Arithmetic_Operators-102040)](./projects/006-arithmeticOperators/)&nbsp;
 [![7 Functions](https://img.shields.io/badge/7-Functions-201040)](./projects/007-functions/)&nbsp;
+[![8 Function Return Values](https://img.shields.io/badge/8-Function_Return_Values-401040)](./projects/008-functionReturnValues/)&nbsp;
 
 ---
 
